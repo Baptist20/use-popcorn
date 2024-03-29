@@ -1,3 +1,8 @@
+# Use Popcorn
+
+This is an app where you can browse for movies and their reviews, views and watch time, you can also give your reviews.
+Incase if you get an error about not being able to fetch movies, try to get the access key again from imdb website.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
